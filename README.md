@@ -34,6 +34,8 @@ To build a **transparent and decentralized charity ecosystem** where:
 
 **Module Name:** `MyModule::CharityNFT`
 Contract Address: 0xff5ebce7a44065dea91551cf4da5faafbce9cda1880522b135252080e6144f20
+ <img width="1365" height="665" alt="Screenshot 2025-08-14 132502" src="https://github.com/user-attachments/assets/3881f377-44a8-484a-9e7b-e659394ae78c" />
+
 ### Key Functions
 
 1. `create_charity_collection(owner, min_donation)` — Deploy a new charity NFT collection with a set minimum donation.
