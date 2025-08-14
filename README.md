@@ -1,4 +1,4 @@
-Here’s your human-written README in text form:
+
 
 ---
 
@@ -55,4 +55,4 @@ struct CharityCollection {
 
 ---
 
-Do you want me to also add **example commands** showing how to deploy and interact with this contract on Aptos? That would make the README more practical.
+.
