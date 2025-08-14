@@ -1,0 +1,18 @@
+[package]
+name = "Charity-NFT-Collection"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x07a7f33991db77f24c539e17e24e791ca81accba8edd43696b2c0a1ce7531a41"
+
+[dev-addresses]
+# You can override for local dev
+MyModule = "0xdef"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
